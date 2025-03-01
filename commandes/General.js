@@ -8,7 +8,7 @@ zokou({ nomCom: "proprio", categorie: "Général", reaction: "💞" }, async (de
   const thsudo = await isSudoTableNotEmpty()
 
   if (thsudo) {
-     let msg = `*Javiel Super-User*\n
+     let msg = `*Jayden Super-User*\n
      *Numero proprietaire\n* :
 - 🌟 @${conf.NUMERO_OWNER}
 
@@ -60,7 +60,7 @@ zokou({ nomCom: "dev", categorie: "Général", reaction: "💞" }, async (dest, 
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 Hi meet the developers of Javiel md whatsapp bot :\n\n";
+    let message = "👋 Hi meet the developers of Jayden md whatsapp bot :\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
