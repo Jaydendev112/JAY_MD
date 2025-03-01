@@ -6,11 +6,11 @@ const os = require("os");
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../set");
 
-zokou({ nomCom: "menu", reaction:"📁",categorie: "Général" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "menu", reaction:"😈",categorie: "Général" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
-    var mode = "public";
+    var mode = "private";
     
     if ((s.MODE).toLowerCase() != "oui") {
         mode = "privé";
@@ -40,13 +40,13 @@ const date = moment().format('DD/MM/YYYY');
 │   *Heure* : ${temps}
 │   *Mémoire* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │   *Plateforme* : ${os.platform()}
-│   *Developer* :  JAVIEL TECH💞
+│   *Developer* :  JAYDEN_MD_BOT💞
 ╰─────✧WA-BOT✧─────◆ \n\n`;
     
 let menuMsg = `
 👋 Hi ${nomAuteurMessage} 👋
 
-*Javiel Md commands :*
+*Jayden Md commands :*
 ◇                             ◇
 `;
 
@@ -63,9 +63,9 @@ let menuMsg = `
     menuMsg += `
 ◇            ◇
 *»»————— ★ —————««*
-The best whatsapp bot  ${prefixe}"created by javiel"
+The best whatsapp bot  ${prefixe}"created by jayden"
  
- powered by javiel-md
+ powered by jayden-md
                                                 
 *»»————— ★ —————««*
 `;
