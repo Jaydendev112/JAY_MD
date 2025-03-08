@@ -10,7 +10,7 @@
  
   
 <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l">
- <img alt="𝐏𝐎𝐏𝐊𝐈𝐃 𝐗𝐓𝐄𝐂𝐇" height="350" src="https://files.catbox.moe/w5xf3f.jpg">
+ <img alt="JAYDEN TECH" height="350" src="https://files.catbox.moe/w5xf3f.jpg">
  
 
 # ғᴏʀᴋ ᴍʏ ʀᴇᴘᴏ
@@ -28,7 +28,7 @@
 - <a href='https://signup.heroku.com/' target="_silver"><img alt='Heroku' src='https://img.shields.io/badge/-ℂℝ𝔼𝔸𝕋𝔼 𝔸ℂℂ𝕆𝕌ℕ𝕋 ℕ𝕆𝕎-rgb(224, 255, 255)?style=for-the-badge&logo=porsche&logoColor=pink' width="240" height="38.45"/></a>
 
 # ᴅᴇᴘʟᴏʏ ʙᴏᴛ
-- <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Popkiddevs/POPKID-XTECH"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-purple?style=for-the-badge&logo=porsche" width="220" height="38.45"/></a></p>
+- <a align="center"><a href="https://dashboard.heroku.com/new?template=https://https://github.com/Jaydendev112/JAY_MD"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-purple?style=for-the-badge&logo=porsche" width="220" height="38.45"/></a></p>
 
 ## CONTACT ME
 [![Whatsapp contact](https://img.shields.io/badge/Contact-JAY%20MD-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/+254107065646)
