@@ -10,7 +10,7 @@
  
   
 <a href="https://whatsapp.com/channel/0029Vb1Ab790QeadOBPlRt2q">
- <img alt="JAYDEN TECH" height="350" src="https://files.catbox.moe/w5xf3f.jpg">
+ <img alt="JAYDEN TECH" height="350" src="https://files.fm/u/t7xmz5w2qw.jpg">
  
 
 # ғᴏʀᴋ ᴍʏ ʀᴇᴘᴏ
