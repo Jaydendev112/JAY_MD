@@ -5,7 +5,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=POPKID+XTECH+TEAM+;KEEP+USING+POPKID+MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=JAYDEN+XTECH+TEAM+;KEEP+USING+JAY+MD" alt="Typing SVG" /></a>
   </p>
  
   
@@ -15,7 +15,7 @@
 
 # ғᴏʀᴋ ᴍʏ ʀᴇᴘᴏ
 </a></p>
-- <a href="https://github.com/Jaydendev112/JAY_MD/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(0, 255, 255)&style=for-the-badge&logo=porsche&logoColor=yellow" width="240" height="38.45"/></a></p>
+- <a href="https://github.com/JAYDEN DEV112/JAY_MD/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(0, 255, 255)&style=for-the-badge&logo=porsche&logoColor=yellow" width="240" height="38.45"/></a></p>
 
 # ɢᴇᴛ ᴘᴀɪʀ ᴄᴏᴅᴇ
 </a></p>
