@@ -1,6 +1,6 @@
 {
-  "name": "⭕ JAVIEL ⭕",
-  "description": "This BOT was developed by Javiel Tech 👻.",
+  "name": "🧑‍💻 JAYDEN 💜",
+  "description": "This BOT was developed by Jayden Tech 🧑‍💻.",
   "keywords": [
     "bot",
     "node",
@@ -84,7 +84,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "JAVIEL-MD",
+      "value": "JAYDEN-MD",
       "required": false
   
     },
@@ -111,12 +111,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "JAVIEL"
+      "value": "JAYDEN"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple '254')",
       "required": false,
-      "value": "254732297194"
+      "value": "254107065646"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
