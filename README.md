@@ -9,8 +9,8 @@
   </p>
  
   
-<a href="https://whatsapp.com/channel/0029Vb1Ab790QeadOBPlRt2q">
- <img alt="JAYDEN TECH" height="350" src="https://files.fm/u/t7xmz5w2qw.jpg">
+<a href="">
+ <img alt="JAYDEN TECH" height="350" src="https://i.ibb.co/jk0W1ckM/download-10.jpg">
  
 
 # ғᴏʀᴋ ᴍʏ ʀᴇᴘᴏ
