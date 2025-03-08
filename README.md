@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=40&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=🦋+▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭+🐇)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=40&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=+▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭+❤️)](https://git.io/typing-svg) 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=1BAFBAFF&center=true&width=1100&height=150&lines=JAY-MD+XTECH+BOT" alt="Typing SVG" /></a>
   </p>
@@ -9,7 +9,7 @@
   </p>
  
   
-<a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l">
+<a href="https://whatsapp.com/channel/0029Vb1Ab790QeadOBPlRt2q">
  <img alt="JAYDEN TECH" height="350" src="https://files.catbox.moe/w5xf3f.jpg">
  
 
@@ -31,4 +31,4 @@
 - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://https://github.com/Jaydendev112/JAY_MD"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-purple?style=for-the-badge&logo=porsche" width="220" height="38.45"/></a></p>
 
 ## CONTACT ME
-[![Whatsapp contact](https://img.shields.io/badge/Contact-JAY%20MD-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/+254107065646)
+[![Whatsapp contact](https://img.shields.io/badge/Contact-JAY%20TECH-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/+254107065646)
