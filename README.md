@@ -1,3 +1,9 @@
+<div align="center">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="300" />
+<div align="center">
+ <details>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=40&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=+▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭+❤️)](https://git.io/typing-svg) 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=1BAFBAFF&center=true&width=1100&height=150&lines=JAY-MD+XTECH+BOT" alt="Typing SVG" /></a>
@@ -7,11 +13,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=JAYDEN+XTECH+TEAM+;KEEP+USING+JAY+MD" alt="Typing SVG" /></a>
   </p>
- 
-  
-<a href="">
- <img alt="JAYDEN TECH" height="350" src="https://i.ibb.co/jk0W1ckM/download-10.jpg">
- 
 
 # ғᴏʀᴋ ᴍʏ ʀᴇᴘᴏ
 </a></p>
